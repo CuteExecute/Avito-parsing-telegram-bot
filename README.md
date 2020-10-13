@@ -1,0 +1,6 @@
+the bot uses a configuration file with the "config.py" token the code:
+TOKEN = 'some bot token'
+
+the "resource" folder, which should be located along with the source files, 
+contains the images and gifs that the bot uses, I will not upload it to git... 
+because this is personal ...
